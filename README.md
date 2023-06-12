@@ -8,12 +8,12 @@ Turma Online X | Back-end | Semana 0 | 2023 | Professora X
 
 ### Resumo
 - O que veremos na aula de hoje?
-* [Introdução]
-* [Tema2](#Variáveis)
-* [Tema3](#Funções)
-* [Tema4](#Condicionais)
-* [Tema5](#Laços de Repetição)
-* [Tema6](#Bônus: Input)
+* [Introdução](#Introdução)
+* [Variáveis](#Variáveis)
+* [Funções](#Funções)
+* [Condicionais](#Condicionais)
+* [Laços de Repetição](#laços-de-repetição)
+* [Bônus: Input](#bônus-input)
 
 ## Conteúdo
 

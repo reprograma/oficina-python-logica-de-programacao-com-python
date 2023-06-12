@@ -18,32 +18,32 @@ O que veremos na aula de hoje?
 
 ## Conteúdo
 
-### Tema1 
-1. [Tópico 1](#Distinguindo Backend de Frontend)
-2. [Tópico 2](#Entendendo o VSCode)
-3. [Tópico 3](#Introdução conceitual ao Python)
+### Introdução 
+1. Distinguindo Backend de Frontend
+2. Entendendo o VSCode
+3. Introdução conceitual ao Python
 
-### Tema2 
-1. [Tópico 4](#Variáveis)
-3. [Tópico 5](#Tipos numéricos)
-3. [Tópico 6](#Tipo Sequências de texto)
-2. [Tópico 7](#Porque entender tipos)
+### Variáveis 
+1. Variáveis
+3. Tipos numéricos
+3. Tipo Sequências de texto
+2. Porque entender tipos
 
-### Tema3
-1. [Tópico 8](#Funções)
+### Funções
+1. Funções Básicas: print, min, max, "troca de tipos" variáveis 
 
-### Tema4
-1. [Tópico 9](#Condicionais)
-2. [Tópico 10](#If)
-3. [Tópico 11](#If - Else)
-3. [Tópico 12](#If - Elif)
-3. [Tópico 13](#If - Elif - Else)
+### Condicionais
+1. Condicionais
+2. If
+3. If - Else
+3. If - Elif
+3. If - Elif - Else
 
-### Tema5
-1. [Tópico 14](#Laços de Repetição: While)
+### Laços de Repetição
+1. Laços de Repetição: While
 
-### Tema6
-1. [Tópico 15](#Bônus: Input)
+### Bônus: Input
+1. Bônus: Input
 
 
 ***

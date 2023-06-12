@@ -7,9 +7,8 @@
 Turma Online X | Back-end | Semana 0 | 2023 | Professora X
 
 ### Resumo
-- Acompanhar a aula pelo slide: https://docs.google.com/presentation/d/1l8RVMwFAsUP1FF46jm-hAB44fR0yoHr-MlXgxd-DZmg/edit?usp=sharing
-O que veremos na aula de hoje?
-* [Tema1](#Introdução)
+- O que veremos na aula de hoje?
+* [Introdução]
 * [Tema2](#Variáveis)
 * [Tema3](#Funções)
 * [Tema4](#Condicionais)
@@ -51,6 +50,7 @@ O que veremos na aula de hoje?
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 
 ### Material da aula 
+Acompanhar a aula pelo slide: https://docs.google.com/presentation/d/1l8RVMwFAsUP1FF46jm-hAB44fR0yoHr-MlXgxd-DZmg/edit?usp=sharing
 
 ### Links Úteis
 - [Documentação completa de Python](https://docs.python.org/pt-br/3/)
